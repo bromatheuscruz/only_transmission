@@ -19,7 +19,7 @@ export default function LivePage(props) {
                     width: "100%",
                     height: "100%"
                 }}
-                src={`https://www.youtube.com/embed/${live_id}`}
+                src={`https://www.youtube.com/embed/${live_id}?rel=0`}
                 frameBorder="0"
             />
         </div>
